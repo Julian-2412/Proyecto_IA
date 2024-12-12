@@ -11,4 +11,4 @@ Dataset: ([link](https://www.kaggle.com/datasets/cutedango/league-of-legends-cha
 Modelos: Train_test_split, cross_val_score, model
 
 Enlaces del: 
-[código](https://colab.research.google.com/drive/18yw8i9r4IZZMGi6ZawRfSY70t6fSIxxj?usp=sharing), [video](https://www.youtube.com/watch?v=rNDOeQWSDZM), y [repositorio](https://github.com/Julian-2412/Proyecto_IA.git)
+[código](https://drive.google.com/file/d/1mXMGtOgQIfooybtqVTsD3xTgfNujhgNU/view?usp=sharing), [video](https://www.youtube.com/watch?v=rNDOeQWSDZM), y [repositorio](https://github.com/Julian-2412/Proyecto_IA.git)
